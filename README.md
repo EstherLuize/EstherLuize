@@ -28,8 +28,8 @@ My Skills
 
 <div align="center">
 <a href="https://github.com/ericcastroc">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=EstherLuize&show_icons=true&theme=dracula&locale=en&layout=compact" alt="arleynm" /> 
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EstherLuize&show_icons=true&theme=dracula&locale=en" alt="arleynm" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=EstherLuize&show_icons=true&theme=dracula&locale=en&layout=compact" alt="EstherLuize" /> 
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EstherLuize&show_icons=true&theme=dracula&locale=en" alt="EstherLuize" />
 </div>
 </p>
 </p>
