@@ -2,9 +2,10 @@
 
 # Eu sou Esther Luize
 
-- 👧 18 years 
-- 🎓 Graduada no curso de Desenho Industrial de Calçados
-- 🎯 Atualmente tenho foco em aprender design grafico e front-end
+- 👧 21 years 
+- 🎓 Curso de Desenho Industrial de Calçados
+- 🎓 Futura Engenhara de Softaware
+- 🎯 atuo como Analista de Sistemas. Busco me especializar na área de Ciência de Dados, unindo conhecimento técnico com uma visão analítica e criativa para solução de problemas e desenvolvimento de projetos inovadores.
 
 Minhas Redes Sociais:
 
